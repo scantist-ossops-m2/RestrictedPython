@@ -6,6 +6,12 @@ Changes
 
 - Nothing changed yet.
 
+Fixes
++++++
+
+- Seperate isort from general lint options in tox
+
+- Update to isort 5 (cli and config options)
 
 5.1 (2020-10-07)
 ----------------
