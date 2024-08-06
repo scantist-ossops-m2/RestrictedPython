@@ -22,11 +22,6 @@ Fixes
 
 - Restrict access to some attributes accessible via the ``inspect`` module.
 
-- Fix information disclosure problems through
-  Python's "format" functionality
-  (``format`` and ``format_map`` methods on ``str`` and its instances,
-  ``string.Formatter``).
-
 
 5.2 (2021-11-19)
 ----------------
