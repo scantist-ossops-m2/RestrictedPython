@@ -17,11 +17,6 @@ Features
 - Allow to use the Python 3.11 feature of exception groups and except\*
   (PEP 654).
 
-Fixes
-+++++
-
-- Restrict access to some attributes accessible via the ``inspect`` module.
-
 
 5.2 (2021-11-19)
 ----------------
